@@ -6,7 +6,7 @@
 <p style="display: inline">
   <img src="https://img.shields.io/badge/-Power%20Automate%20Desktop-5391FE.svg?logo=Power%20Automate&style=popout"
 </p>
-
+Power Automate Desktop UI picture change sub tool
 
 # Power Automate DesktopのUI要素のキャプチャ画像を修正する
 
